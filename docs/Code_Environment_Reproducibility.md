@@ -1,3 +1,11 @@
+---
+title: "Code & Environment Reproducibility"
+format: html
+---
+
+**For lab members:** Internal guidance on creating, editing, and publishing analysis
+repositories is here: [Repository SOP](SOP_Repository_Creation_and_Maintenance.md)
+
 # Code & Environment Reproducibility
 
 This repository contains analysis and plotting code supporting the manuscript figures.  
@@ -18,6 +26,11 @@ This file is written in **Markdown (`.md`)**, a plain-text format that can be op
 No special software is required.
 
 ---
+**For lab members:**  
+Internal guidance on how to create, edit, and publish analysis repositories
+(including GitHub best practices) is available here:  
+[SOP: Repository Creation and Maintenance](/docs/SOP_Repository_Creation_and_Maintenance.md)
+
 
 ## Tested environment
 
