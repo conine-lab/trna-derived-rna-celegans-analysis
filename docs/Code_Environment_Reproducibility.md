@@ -1,8 +1,3 @@
----
-title: "Code & Environment Reproducibility"
-format: html
----
-
 **For lab members:** Internal guidance on creating, editing, and publishing analysis
 repositories is here: [Repository SOP](SOP_Repository_Creation_and_Maintenance.md)
 
